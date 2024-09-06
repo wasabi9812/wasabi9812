@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 상단바 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=울며와사비먹기%20🤗)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=울며와사비먹기%20:sob:)
 
 <!-- 깃허브 일일 조회수 -->
 ![Aleph's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwasabi9812&count_bg=%2374A6EC&title_bg=%236B7575&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
