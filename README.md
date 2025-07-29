@@ -3,8 +3,6 @@
 <!-- 상단바 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=울며와사비먹기%20:🤮)
 
-<!-- 깃허브 일일 조회수 -->
-![Aleph's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwasabi9812&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <!-- 깃허브 스탯 -->
 ![Aleph's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=wasabi9812&show_icons=true&theme=transparent&locale=kr)
