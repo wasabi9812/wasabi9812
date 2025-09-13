@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- 상단바 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=울며와사비먹기%20:🤮)
+![Banner]
+## I'm Jinho Kim
+Hello! I'm Jinho Kim, from Busan, Korea. I'm currently a Master Course Student at SungKyunKwan University in CNR Labotory.
+## ⚡ Interest
+fixing
+
+## ⚡ Tech Stack
+fixing
 
 
 <!-- 깃허브 스탯 -->
