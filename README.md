@@ -78,3 +78,17 @@ Operating System, Multi-Agent System, Optimization
 
 
 </div>
+
+### Timeline 🏃
+
+2018.03 ~ 2022.03 Bachelor in Electronic Engineering, Dong-A University 🎓  
+
+2020.03 Joined ROTC (117th Cadet Corps) 🪖  
+
+2022.03 ~ 2024.06 Platoon Leader & Headquarters Company Commander, **Signal Battalion, 5th Infantry Division (ROKA)** 📡  
+
+2024.07 ~ 2024.12 SW KAIST Jungle Bootcamp 💻  
+
+2025.03 ~ Master’s Course, Department of Electrical and Computer Engineering, Sungkyunkwan University 🎓  
+
+---
