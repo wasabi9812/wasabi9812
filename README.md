@@ -35,7 +35,7 @@ Operating System, Multi-Agent System, Optimization
 
 | Project | Organization | Period | Description |
 |---|---|---|---|
-| **HAMMR (Heavy Autonomous Robot)** | Case Lab Ltd. | Ongoing | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
+| **HAMMR (Heavy Autonomous Mobile Robot)** | Case Lab Ltd. | Ongoing | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
 
 ---
 
