@@ -41,26 +41,26 @@ Operating System, Multi-Agent System, Optimization
 ---
 
 ### 🏠 Domestic Journals
-| Title | Venue | Date | Link | Acknowledgement |
-|---|---|---|---|---|
-| **Semantic-based Offset Estimation for Time Synchronization of Multi-sensor Systems in Vehicles** | *IEMEK Journal* (KCI) | 2025-08 (Published) | [IEMEK](http://journal.iemek.org/MN/) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
+| Title | Venue | Date | Field | Link | Acknowledgement |
+|---|---|---|---|---|---|
+| **Semantic-based Offset Estimation for Time Synchronization of Multi-sensor Systems in Vehicles** | *IEMEK Journal* (KCI) | 2025-08 (Published) | Sensor Fusion · Sensor Calibration · Error Compensation | [IEMEK](http://journal.iemek.org/MN/) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
 
 ---
 
 ### 🌐 International Conferences
-| Title | Venue | Date | Link | Acknowledgement |
-|---|---|---|---|---|
-| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
+| Title | Venue | Date | Field | Link | Acknowledgement |
+|---|---|---|---|---|---|
+| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | RTOS Performance Evaluation for Robotics | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
 
 ---
 
 ### 🏡 Domestic Conferences
-| Title | Venue | Date | Link | Acknowledgement |
-|---|---|---|---|---|
-| **Data Augmentation for Enhancing Camera Recognition Under Adverse Conditions** | *KIIS Spring Conference* | 2025-04-26 | [KIIS](https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
-| **Image Restoration Network Trained with Augmented Data for Camera Perception in Adverse Condition** | *ICROS Summer Conference* | 2025-06-26 | [ICROS](https://2025.icros.org/) · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313424) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
-| **Feasibility of Reweighted A* as SSSP for Efficient MAPF via Sorting Barrier Breakthrough** | *The 6th Korea Artificial Intelligence Conference* | 2025-09-26 (Accepted) | [Korea AI](https://www.koreaai.org/) | BK21 FOUR Project |
-| **Loosely Ordered Data Structures for Faster MAPF search** | *KSII Spring Conference* | 2025-10-31 (Accepted) | [KSII](https://www.manuscriptlink.com/society/ksii/conference/spring2025/notice) | BK21 FOUR Project |
+| Title | Venue | Date | Field | Link | Acknowledgement |
+|---|---|---|---|---|---|
+| **Data Augmentation for Enhancing Camera Recognition Under Adverse Conditions** | *KIIS Spring Conference* | 2025-04-26 | Generative AI · Image Data Augmentation | [KIIS](https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
+| **Image Restoration Network Trained with Augmented Data for Camera Perception in Adverse Condition** | *ICROS Summer Conference* | 2025-06-26 | Generative AI · Image Restoration Network | [ICROS](https://2025.icros.org/) · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313424) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
+| **Feasibility of Reweighted A* as SSSP for Efficient MAPF via Sorting Barrier Breakthrough** | *The 6th Korea Artificial Intelligence Conference* | 2025-09-26 (Accepted) | Path Planning · MAPF Optimization · Algorithms | [Korea AI](https://www.koreaai.org/) | BK21 FOUR Project |
+| **Loosely Ordered Data Structures for Faster MAPF search** | *KSII Spring Conference* | 2025-10-31 (Accepted) | Path Planning · MAPF Optimization · Data Structures | [KSII](https://www.manuscriptlink.com/society/ksii/conference/spring2025/notice) | BK21 FOUR Project |
 
 
 
