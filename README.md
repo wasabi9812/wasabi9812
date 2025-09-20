@@ -31,12 +31,18 @@ Operating System, Multi-Agent System, Optimization
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+## 🚀 Projects
 
+| Project | Organization | Period | Description |
+|---|---|---|---|
+| **HAMMR (Heavy Autonomous Robot)** | Case Lab Ltd. | Ongoing | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
+
+---
 
 ## 📚 Publications
 
 ### 🌍 International Journals
-> (현재 없음 — 준비/투고 예정)
+> (None — Planning to summit)
 
 ---
 
