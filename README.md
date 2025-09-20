@@ -8,11 +8,12 @@ Operating System, Multi-Agent System, Optimization
 
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-🔥 **Frequently Used**
+<!-- 좌측: Frequently Used -->
+<div style="display:inline-block; vertical-align:top; margin:20px; width:40%;">
+
+<h3>🔥 Frequently Used</h3>
 
 **OS**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
@@ -25,10 +26,12 @@ Operating System, Multi-Agent System, Optimization
 **Frameworks**  
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)  
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-🧪 **Experienced With**
+<!-- 우측: Experienced With -->
+<div style="display:inline-block; vertical-align:top; margin:20px; width:40%;">
+
+<h3>🧪 Experienced With</h3>
 
 **Web / Frontend**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -44,9 +47,9 @@ Operating System, Multi-Agent System, Optimization
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 
 <!-- 깃허브 스탯 -->
