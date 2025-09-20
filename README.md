@@ -50,7 +50,7 @@ Operating System, Multi-Agent System, Optimization
 ### 🌐 International Conferences
 | Title | Venue | Date | Field | Link | Acknowledgement |
 |---|---|---|---|---|---|
-| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | RTOS Performance Evaluation for Robotics | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
+| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | System Software, Middleware | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
 
 ---
 
