@@ -43,7 +43,7 @@ Operating System, Multi-Agent System, Optimization
 ### 🏠 Domestic Journals
 | Title | Venue | Date | Field | Link | Acknowledgement |
 |---|---|---|---|---|---|
-| **Semantic-based Offset Estimation for Time Synchronization of Multi-sensor Systems in Vehicles** | *IEMEK Journal* (KCI) | 2025-08 (Published) | Sensor Fusion · Sensor Calibration · Error Compensation | [IEMEK](http://journal.iemek.org/MN/) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
+| **Semantic-based Offset Estimation for Time Synchronization of Multi-sensor Systems in Vehicles** | *IEMEK Journal* (KCI) | 2025-08 (Published) | Sensor Fusion · Sensor Calibration · Error Compensation | [IEMEK]([http://journal.iemek.org/MN/](http://journal.iemek.org/?page_gubun=PUBLISH_LAST#)) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
 
 ---
 
