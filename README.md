@@ -56,9 +56,9 @@ Operating System, Multi-Agent System, Optimization
 ### 🌐 International Conferences
 | Title | Venue | Date | Field | Author | Link | Acknowledgement |
 |---|---|---|---|---|---|---|
-| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | System Software · Middleware · RTOS Performance | First Author | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
-| **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 (Accepted) | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
-| **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 (Accepted) | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project |
+| **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 | System Software · Middleware · RTOS Performance | First Author | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
+| **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
+| **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project |
 
 ---
 
@@ -67,8 +67,8 @@ Operating System, Multi-Agent System, Optimization
 |---|---|---|---|---|---|---|
 | **Data Augmentation for Enhancing Camera Recognition Under Adverse Conditions** | *KIIS Spring Conference* | 2025-04-26 | Generative AI · Image Data Augmentation | First Author | [KIIS](https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
 | **Image Restoration Network Trained with Augmented Data for Camera Perception in Adverse Condition** | *ICROS Summer Conference* | 2025-06-26 | Generative AI · Image Restoration Network | First Author | [ICROS](https://2025.icros.org/) · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313424) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발 |
-| **Feasibility of Reweighted A* as SSSP for Efficient MAPF via Sorting Barrier Breakthrough** | *The 6th Korea Artificial Intelligence Conference* | 2025-09-26 (Accepted) | Path Planning · MAPF Optimization · Algorithms | First Author | [Korea AI](https://www.koreaai.org/) | BK21 FOUR Project |
-| **Loosely Ordered Data Structures for Faster MAPF search** | *KSII Spring Conference* | 2025-10-31 (Accepted) | Path Planning · MAPF Optimization · Data Structures | First Author | [KSII](https://www.manuscriptlink.com/society/ksii/conference/spring2025/notice) | BK21 FOUR Project |
+| **Feasibility of Reweighted A* as SSSP for Efficient MAPF via Sorting Barrier Breakthrough** | *The 6th Korea Artificial Intelligence Conference* | 2025-09-26 | Path Planning · MAPF Optimization · Algorithms | First Author | [Korea AI](https://www.koreaai.org/) | BK21 FOUR Project |
+| **Loosely Ordered Data Structures for Faster MAPF search** | *KSII Fall Conference* | 2025-10-31 | Path Planning · MAPF Optimization · Data Structures | First Author | [KSII](https://www.manuscriptlink.com/society/ksii/conference/spring2025/notice) | BK21 FOUR Project |
 
 
 
