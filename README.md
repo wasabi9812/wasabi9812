@@ -57,6 +57,8 @@ Operating System, Multi-Agent System, Optimization
 | Title | Venue | Date | Field | Author | Link | Acknowledgement |
 |---|---|---|---|---|---|---|
 | **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 (Accepted) | System Software · Middleware · RTOS Performance | First Author | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
+| **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 (Accepted) | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
+| **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 (Accepted) | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project |
 
 ---
 
@@ -82,7 +84,6 @@ Operating System, Multi-Agent System, Optimization
 <!-- 깃허브 커밋 그래프 -->
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=wasabi9812&theme=react-dark)
 
-
 </div>
 
 ### Timeline 🏃
@@ -96,5 +97,3 @@ Operating System, Multi-Agent System, Optimization
 2024.07 ~ 2024.12 SW KAIST Jungle Bootcamp 💻  
 
 2025.03 ~ Master’s Course, Department of Electrical and Computer Engineering, Sungkyunkwan University 🎓  
-
----
