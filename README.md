@@ -4,7 +4,7 @@
 ## I'm Jinho Kim
 Hello! I'm Jinho Kim, from Busan, Korea. I'm currently a Master Course Student at SungKyunKwan University in CNR Labotory.
 ## ⚡ Interest
-Operating System, Multi-Agent System, Optimization
+Operating System, Multi-Agent System, Theory Computing, Optimization
 
 ## 🧰 Tech Stack
 
