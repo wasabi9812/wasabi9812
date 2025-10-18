@@ -59,7 +59,7 @@ Operating System, Multi-Agent System, Theory Computing, Optimization
 | **Evaluation of RTOS for Robotic Applications with ROS 2 on Embedded Systems** | *ICCAS 2025* | 2025-11-05 | System Software · Middleware · RTOS Performance | First Author | [ICCAS](https://2025.iccas.org/) | BK21 FOUR Project |
 | **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
 | **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-06 ~ 2025-11-09 | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project |
-| **Quantization-Corrected Reflector Detection on Low-Vertical-Resolution 3D LiDAR for Docking Stations** | *ICONI 2025* | *Pending Decision* | Perception · 3D LiDAR Compensation · Docking System | First Author | [ICONI](https://www.iconi.org/) | BK21 FOUR Project |
+| **Quantization-Corrected Reflector Detection on Low-Vertical-Resolution 3D LiDAR for Docking Stations** | *ICONI 2025* | *Pending Decision* | Perception · 3D LiDAR Compensation · Docking System | First Author | [ICONI]([https://www.iconi.org/](https://www.iconi.org/)) | BK21 FOUR Project |
 ---
 
 ### 🏡 Domestic Conferences
