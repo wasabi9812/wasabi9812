@@ -35,8 +35,8 @@ Operating System, Multi-Agent System, Theory Computing, Optimization
 
 | Project | Organization | Period | Description |
 |---|---|---|---|
-| **HAMMR (Heavy Autonomous Mobile Robot)** | Case Lab Ltd. | Ongoing | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
-| **EMCS (Edge Monitoring Control System)** | Tips(Tech Incubator Program for Startup) | Ongoing | Development of an edge-intelligent multi-robot monitoring and control system that integrates autonomous robots with a centralized server for real-time fleet management, coordination, and mission scheduling in industrial environments. |
+| **HAMMR (Heavy Autonomous Mobile Robot)** | Case Lab Ltd. | 2025.08 ~ Ongoing | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
+| **EMCS (Edge Monitoring Control System)** | Tips(Tech Incubator Program for Startup) | 2025.03 ~ Ongoing | Development of an edge-intelligent multi-robot monitoring and control system that integrates autonomous robots with a centralized server for real-time fleet management, coordination, and mission scheduling in industrial environments. |
 ---
 
 ## 📚 Publications
