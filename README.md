@@ -60,7 +60,7 @@ Operating System, Multi-Agent System, Theory Computing, Optimization
 | **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-09 | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
 | **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-07 | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project, EMCS Project |
 | **Quantization-Corrected Reflector Detection on Low-Vertical-Resolution 3D LiDAR for Docking Stations** | *ICONI 2025*  | 2025-12-15 | Perception · 3D LiDAR Compensation · Docking System | First Author | [ICONI](https://www.iconi.org/) | BK21 FOUR Project, HAMR Project |
-| **ROS-Aware Block I/O Scheduling for Real-Time Robotic Data Logging** | *IEEE AMC 2026*  | 2026-03-09 | Block I/O Scheduling · Real-Time Systems · Robotics | 2nd Author | [IEEEAMC](https://amc2026.ieee-ies.org/) | None |
+| **ROS-Aware Block I/O Scheduling for Real-Time Robotic Data Logging** | *IEEE AMC 2026*  | Pending Decision | Block I/O Scheduling · Real-Time Systems · Robotics | 2nd Author | [IEEEAMC](https://amc2026.ieee-ies.org/) | None |
 ---
 
 ### 🏡 Domestic Conferences
