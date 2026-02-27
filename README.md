@@ -51,6 +51,8 @@ Operating System, Multi-Agent System, Theory Computing, Optimization
 | Title | Venue | Date | Field | Author | Link | Acknowledgement |
 |---|---|---|---|---|---|---|
 | **Semantic-based Offset Estimation for Time Synchronization of Multi-sensor Systems in Vehicles** | *IEMEK Journal* (KCI) | 2025-08-31 | Sensor Fusion · Sensor Calibration · Error Compensation | First Author | [IEMEK](http://journal.iemek.org/?page_gubun=PUBLISH_LAST#) · [DOI](https://data.doi.or.kr/10.14372/IEMEK.2025.20.4.183) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발, 과제번호 : 20018198 |
+| **Analysis and Mitigation of Page Cache Writeback Bottlenecks in High-Bandwidth Sensor Data Logging for Embedded Systems** | *IEMEK Journal* (KCI) | 2026-04-28 | Embedded Systems · Linux Kernel · Storage I/O · ROS 2 Logging | First Author | — | BK21 FOUR Project |
+
 
 ---
 
@@ -61,7 +63,6 @@ Operating System, Multi-Agent System, Theory Computing, Optimization
 | **Local Cost Map Generation for Autonomous Driving with Monocular Camera and LiDAR Fusion** | *ISIS 2025* | 2025-11-09 | Sensor Fusion · Perception · Autonomous Driving | 3rd Author | [ISIS](https://isis2025.org/) | This work was supported by Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2023-00244929, Development of connected-based cognitive enhancement and cooperative autonomous driving technology of Level 4 autonomous vehicles). |
 | **Evaluation of Data Transportation Protocols for Multirobot Systems** | *ISIS 2025* | 2025-11-07 | Communication · Multi-Robot Systems · Network Benchmarking | First Author | [ISIS](https://isis2025.org/) | BK21 FOUR Project, EMCS Project |
 | **Quantization-Corrected Reflector Detection on Low-Vertical-Resolution 3D LiDAR for Docking Stations** | *ICONI 2025*  | 2025-12-15 | Perception · 3D LiDAR Compensation · Docking System | First Author | [ICONI](https://www.iconi.org/) | BK21 FOUR Project, HAMR Project |
-| **ROS-Aware Block I/O Scheduling for Real-Time Robotic Data Logging** | *IEEE AMC 2026*  | Pending Decision | Block I/O Scheduling · Real-Time Systems · Robotics | 2nd Author | [IEEEAMC](https://amc2026.ieee-ies.org/) | None |
 ---
 
 ### 🏡 Domestic Conferences
