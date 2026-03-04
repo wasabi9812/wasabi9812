@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner]
+![banner](https://minimalistic-wallpaper.demolab.com/?random)
 ## I'm Jinho Kim
 Hello! I'm Jinho Kim, Software Engineer from Busan, Korea. I'm currently a Master Course Student at SungKyunKwan University in CNR Labotory.
 ## ⚡ Interest
