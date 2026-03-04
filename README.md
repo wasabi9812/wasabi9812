@@ -9,6 +9,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 ## 🧰 Tech Stack
 <details>
 <summary>Stack Lists</summary>
+  
 ### 🔥 Frequently Used
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![QNX](https://img.shields.io/badge/QNX-0033A0?style=for-the-badge&logo=qnx&logoColor=white)
@@ -30,6 +31,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </details>
 
 ## 🚀 Projects
