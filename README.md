@@ -76,7 +76,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 | **Loosely Ordered Data Structures for Faster MAPF search** | *2025 KSII Fall Conference* | 2025-10-31 | Path Planning · MAPF Optimization · Data Structures | First Author | [KSII](https://www.manuscriptlink.com/society/ksii/conference/fall2025) | BK21 FOUR Project |
 </details>
 
-
+##
 
 
 
