@@ -39,9 +39,11 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 | **EMCS (Edge Monitoring Control System)** | Tips(Tech Incubator Program for Startup) | 2025.03 ~ Ongoing | Development of an edge-intelligent multi-robot monitoring and control system and server that integrates autonomous robots with a centralized server for real-time fleet management, coordination, and mission scheduling in industrial environments. |
 | **ADAM21 (ROS 2 Version Migration)** | Case Lab Ltd. | 2025.12 ~ 2026.01 | Mobile UV disinfection robot control system migration from ROS 1 to ROS 2, with restructured package architecture to enhance modularity and enable seamless integration with additional navigation, perception, and monitoring packages. |
 ---
-<details>
+
 ## 📚 Publications
 
+<details>
+  
 ### 🌍 International Journals
 > (None — Planning to summit)
 
