@@ -87,7 +87,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 <!-- 깃허브 커밋 스택 --> 
 [![Aleph's 깃허브 커밋 스택](https://streak-stats.demolab.com?user=wasabi9812&theme=transparent&locale=ko)](https://git.io/streak-stats) 
 <!-- 깃허브 언어 사용 순위 | 백준 티어 --> 
-![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812&layout=compact&theme=dark)[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
+![Aleph's 깃허브 언어 사용 순위][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
 <!-- 깃허브 커밋 그래프 --> 
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=wasabi9812&theme=react-dark)
 </div>
