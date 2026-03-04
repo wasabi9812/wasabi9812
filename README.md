@@ -45,7 +45,6 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 | **ADAM21 (ROS 2 Version Migration)** | Case Lab Ltd. | 2025.12 ~ 2026.01 | Mobile UV disinfection robot control system migration from ROS 1 to ROS 2, with restructured package architecture to enhance modularity and enable seamless integration with additional navigation, perception, and monitoring packages. |
 
 </details>
----
 
 ## 📚 Publications
 
