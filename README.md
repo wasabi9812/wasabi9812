@@ -42,7 +42,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 
 ## 📚 Publications
 
-<details>
+<PaperLists>
   
 ### 🌍 International Journals
 > (None — Planning to summit)
@@ -74,7 +74,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 | **Image Restoration Network Trained with Augmented Data for Camera Perception in Adverse Condition** | *2025 ICROS Summer Conference* | 2025-06-26 | Generative AI · Image Restoration Network | First Author | [ICROS](https://2025.icros.org/) · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313424) | 악의 조건주행 환경에서 연속 대응 가능한 Hyper 자차 위치 인식 기술 개발, 과제번호 : 20018198 |
 | **Feasibility of Reweighted Astar as SSSP for Efficient MAPF via Sorting Barrier Breakthrough** | *The 6th Korea Artificial Intelligence Conference* | 2025-09-26 | Path Planning · MAPF Optimization · Algorithms | First Author | [Korea AI](https://www.koreaai.org/) | BK21 FOUR Project |
 | **Loosely Ordered Data Structures for Faster MAPF search** | *2025 KSII Fall Conference* | 2025-10-31 | Path Planning · MAPF Optimization · Data Structures | First Author | [KSII](https://www.manuscriptlink.com/society/ksii/conference/fall2025) | BK21 FOUR Project |
-</details>
+</PaperLists>
 
 ##
 
