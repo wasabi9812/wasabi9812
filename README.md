@@ -87,7 +87,8 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 [![GitHub Streak](https://streak-stats.demolab.com?user=wasabi9812&theme=highcontrast&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 
-![Language Usage Lists](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812&layout=compact&theme=dark) [![wasabi9812 baekjoon Teer](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
+![Language Usage Lists](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812&layout=compact&theme=dark)
+[![wasabi9812 baekjoon Teer](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
 
 
 ![wasabi9812 Commit graph](https://github-readme-activity-graph.vercel.app/graph?username=wasabi9812&theme=react-dark)
