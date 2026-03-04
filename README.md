@@ -7,7 +7,8 @@ Hello! I'm Jinho Kim, Software Engineer from Busan, Korea. I'm currently a Maste
 Operating System, Multi-Agent System, Linux Kernel, Optimization
 
 ## 🧰 Tech Stack
-
+<details>
+<summary>Stack Lists</summary>
 ### 🔥 Frequently Used
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![QNX](https://img.shields.io/badge/QNX-0033A0?style=for-the-badge&logo=qnx&logoColor=white)
@@ -29,15 +30,17 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+</details>
 
 ## 🚀 Projects
-
+<details>
+<summary>Project Lists</summary>
 | Project | Organization | Period | Description |
 |---|---|---|---|
 | **HAMMR (Heavy Autonomous Mobile Robot)** | Case Lab Ltd. | 2025.08 ~ 2025.11 | Development of a heavy-duty autonomous robot platform integrating ROS 2, multi-agent coordination, and advanced perception systems. |
 | **EMCS (Edge Monitoring Control System)** | Tips(Tech Incubator Program for Startup) | 2025.03 ~ Ongoing | Development of an edge-intelligent multi-robot monitoring and control system and server that integrates autonomous robots with a centralized server for real-time fleet management, coordination, and mission scheduling in industrial environments. |
 | **ADAM21 (ROS 2 Version Migration)** | Case Lab Ltd. | 2025.12 ~ 2026.01 | Mobile UV disinfection robot control system migration from ROS 1 to ROS 2, with restructured package architecture to enhance modularity and enable seamless integration with additional navigation, perception, and monitoring packages. |
+</details>
 ---
 
 ## 📚 Publications
@@ -90,6 +93,7 @@ Operating System, Multi-Agent System, Linux Kernel, Optimization
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812)[![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
 <!-- 깃허브 커밋 그래프 --> 
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=wasabi9812&theme=react-dark)
+
 </div>
 
 
