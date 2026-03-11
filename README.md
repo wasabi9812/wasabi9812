@@ -89,7 +89,6 @@ Operating System, Autonomous Driving System, Linux Kernel, Optimization
 <!-- 깃허브 커밋 스택 --> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wasabi9812&theme=highcontrast&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <!-- 깃허브 언어 사용 순위 | 백준 티어 --> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812)(https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabi9812)[![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=wasabi9812)](https://solved.ac/s1_1v)
 <!-- 깃허브 커밋 그래프 --> 
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=wasabi9812&theme=react-dark)
